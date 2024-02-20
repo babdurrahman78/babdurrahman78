@@ -1,2 +1,2 @@
 # Hi! I am Bilal! :zombie_man:
-👋 Hey there! I'm Bilal Abdurrahman, a frontend developer with 2 years of experience. I specialize in Vue.js for web development and desktop app slicing. I also freelance on various projects. Let's collaborate and create something awesome together! 💻✨
+👋 Hey there! I'm Bilal Abdurrahman, a frontend developer with 2 years of experience at IT Consulting company. I primarily work with Next.js, tailwind and react-query for web development. I also freelance on various projects with various tech stack such as vue.js (web dev) and c# (desktop app). I'm comitted to learn everything on tech related things (esp. Frontend related) 💻✨
